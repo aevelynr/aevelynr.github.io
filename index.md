@@ -37,6 +37,7 @@ Please find more information about Dr. Fierro on his webpage: https://home.gtf.f
 I am currently working on two projects with Dr. Gertner and a few Masters students at the University of Illinois.
 
 CS + X
+
 This is a course designed for high school students to engage with computer science and its relationship to other areas of discipline. Our curriculum for this summer is called "CS + Linguistics" and was created to show the connections in the two fields through topics machine learning, natural language processing, and artificial intelligence. CS + X is open to high school students who have taken computer science courses before and students who have not and will include differentiated instruction to support their foundational programming skills, logical reasoning, and sense of belonging in the field. 
 
 The course culminates in a English sentence generator Python application that uses grammar rules to construct sentences in English with a determiner, noun phrase, and verb phrase with extensions to include prepositional phrases and more. Students will utilize parsing trees to plan their own grammar rules and decide terminal cases to ensure the accuracy of their generated phrases through functional programming.
@@ -46,6 +47,7 @@ Along the way, students will read and discuss key computer science literature th
 
 
 Study Skills and Sense of Belonging in Computer Science
+
 This project is to collect feedback on a course in the University of Illinois undergraduate computer science course that is considered to be exceptionally difficult due to its content in discrete mathematics. Through the interviews of 30 students, we are seeking to collect feedback on succesful study skills and resources the students utilized to provide guidance to future students as well as to analyze the impact of this discrete mathematics course on the undergraduate's sense of belonging in computer science. We are looking to discover the relationship between a student's study habits, their utilized resources, and their perception of the course and their performance on whether they feel like they "belong" in the computer science field.
 
 [My Final Report](files/finalreport.pdf)
