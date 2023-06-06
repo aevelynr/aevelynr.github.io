@@ -20,7 +20,7 @@ If you have any questions or would like to collaborate, please email me at roese
 
 My advisor is Dr. Yael Gertner from the University of Illinois.
 
-She earned her BS and MS in Electrical Engineering and Computer Science from MIT, and she earned her PhD from the University of Pennslyania in Computer and Information Science. She research and contributions include the power of cryptography, specifically with primitives and Private Information Retrieval as well as language acquisition with regards to learning verbs and sentence comprehension. Dr. Gertner started teaching in the Grainger College of Engineering in the computer science department at the University of Illinois in 2020 with the iCAN program because she is committed to broadening participation in computer science.
+She earned her BS and MS in Electrical Engineering and Computer Science from MIT, and she earned her PhD from the University of Pennslyania in Computer and Information Science. Her research and contributions include the power of cryptography, specifically with primitives and Private Information Retrieval as well as language acquisition with regards to learning verbs and sentence comprehension. Dr. Gertner started teaching in the Grainger College of Engineering in the computer science department at the University of Illinois in 2020 with the iCAN program because she is committed to broadening participation in computer science.
 
 Please find more information about Dr. Gertner on her webpage: http://ygertner.web.illinois.edu/index.html
 
@@ -28,7 +28,7 @@ Please find more information about Dr. Gertner on her webpage: http://ygertner.w
 
 My mentor for my project is Dr. Gabe Fierro from the Colorado School of Mines.
 
-He earned his BS in Electrical Engineering and Computer Sciences and MS and PhD in Computer Science from Berkeley University. Dr. Fierro is an Assistant Professor with a joint appointment at the National Renewable Energy Laboratory. From his website, Dr. Fierro's research "focuses on the design and development of efficient, practical systems that enable sustainable practices at societal scale through making critical cyberphysical data easier to discover, manage and leverage". 
+He earned his BS in Electrical Engineering and Computer Sciences and MS and PhD in Computer Science from Berkeley University. Dr. Fierro is an Assistant Professor with a joint appointment at the National Renewable Energy Laboratory. As described on his website, Dr. Fierro's research "focuses on the design and development of efficient, practical systems that enable sustainable practices at societal scale through making critical cyberphysical data easier to discover, manage and leverage". 
 
 Please find more information about Dr. Fierro on his webpage: https://home.gtf.fyi/
 
@@ -48,7 +48,7 @@ Along the way, students will read and discuss key computer science literature th
 
 Study Skills and Sense of Belonging in Computer Science
 
-This project is to collect feedback on a course in the University of Illinois undergraduate computer science course that is considered to be exceptionally difficult due to its content in discrete mathematics. Through the interviews of 30 students, we are seeking to collect feedback on succesful study skills and resources the students utilized to provide guidance to future students as well as to analyze the impact of this discrete mathematics course on the undergraduate's sense of belonging in computer science. We are looking to discover the relationship between a student's study habits, their utilized resources, and their perception of the course and their performance on whether they feel like they "belong" in the computer science field.
+This project is to collect feedback on a course in the University of Illinois undergraduate discrete mathematics course, which is considered to be exceptionally difficult compared to other introductory courses offered by the CS department. Through the interviews of 30 students, we are seeking to collect feedback on succesful study skills and resources the students utilized to provide guidance to future students as well as to analyze the impact of this discrete mathematics course on the undergraduate's sense of belonging in computer science. We are looking to discover the relationship between a student's study habits, their utilized resources, and their perception of the course and their performance on whether they feel like they "belong" in the computer science field.
 
 [My Final Report](files/finalreport.pdf)
 
