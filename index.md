@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-Hello, everyone! My name is Angela, and I have had a fascinating journey from being a music teacher to pursuing a career in computer science.
+Hello, everyone! My name is Angela Roeser, and I have had a fascinating journey from being a music teacher to pursuing a career in computer science.
 
 With an undergraduate degree in Music Education from the University of Illinois, Masters of Education Leadership from Indiana University, a certificate in Data Science and Business Analytics from the University of Texas at Austin, a graduate certificate from iCAN, and plans to start my Masters in Computer Science at the University of Illinois in the fall and graduate in the spring of 2024, it is fair to say I am a perpetual student who is fascinated with learning, passionate about collaborating, and excited about my future in computer science. 
 
