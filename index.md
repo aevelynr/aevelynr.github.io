@@ -48,7 +48,7 @@ Along the way, students will read and discuss key computer science literature th
 
 ### Study Skills and Sense of Belonging in Computer Science
 
-This project is to collect feedback on a course in the University of Illinois undergraduate discrete mathematics course, which is considered to be exceptionally difficult compared to other introductory courses offered by the CS department. Through the interviews of 30 students, we are seeking to collect feedback on succesful study skills and resources the students utilized to provide guidance to future students as well as to analyze the impact of this discrete mathematics course on the undergraduate's sense of belonging in computer science. We are looking to discover the relationship between a student's study habits, their utilized resources, and their perception of the course and their performance on whether they feel like they "belong" in the computer science field.
+This project is to collect feedback on a course in the University of Illinois undergraduate discrete mathematics course, which is considered to be exceptionally difficult compared to other introductory courses offered by the CS department. Through the interviews of 17 students, we are seeking to collect feedback on succesful study skills and resources the students utilized to provide guidance to future students as well as to analyze the impact of this discrete mathematics course on the undergraduate's sense of belonging in computer science. We are looking to discover the relationship between a student's study habits, their utilized resources, and their perception of the course and their performance on whether they feel like they "belong" in the computer science field.
 
 [My Final Report](files/finalreport.pdf)
 
