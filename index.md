@@ -14,7 +14,7 @@ With an undergraduate degree in Music Education from the University of Illinois,
 
 I am honored to be a participant in the 2023 DREAM cohort. The Distributed REsearch Apprenticeships for Master's, DREAM for short, is designed to provide research opportunities for people entering the computer science field after their undergraduate degree to support those entering the field with mentorship, professional development, and collaboration in pursuit of higher education.
 
-If you have any questions or would like to collaborate, please email me at roeser2@illinois.edu
+If you have any questions or would like to collaborate, please email me at roeser2@illinois.edu.
 
 ## About My Advisor
 
