@@ -52,6 +52,8 @@ This project is to collect feedback on a course in the University of Illinois un
 
 [My Final Report](files/finalreport.pdf)
 
+[My Midterm Report](files/midtermreport.pdf)
+
 ## My Blog
 
 [My Blog](blog.html)
